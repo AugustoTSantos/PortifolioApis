@@ -65,7 +65,7 @@ Muitas funções da Athena precisa de uma data para funcionarem, em questão tec
 
 Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master e o PO eram o mesmo papel acabei também fazendo o backlog
 
-<img src="">
+<img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/1Semestre/imagens/Screenshot_2.png">
 
 </details>
 
