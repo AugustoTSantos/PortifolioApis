@@ -7,7 +7,7 @@
     Com o propósito de trazer para os estudantes em geral uma forma mais centralizada e organizada de cuidar da vida acadêmica e se manter atualizado em suas atividades, criamos a Athena - Assistente Pessoal de Estudos. O seu diferencial é reunir diversas ferramentas úteis em um único lugar.
 </p>
 
-[![Watch the video](https://img.freepik.com/vetores-gratis/video-player-modelo-de-design-janela-de-transmissao-ao-vivo-de-midia-social-conceito-de-jogador_49683-4498.jpg?size=626&ext=jpg)](https://www.youtube.com/watch?v=E_I9MvQs9BE)
+<a>[Apresentação Final](https://www.youtube.com/watch?v=E_I9MvQs9BE)</a>
 
 
 <h3>Tecnologias Utilizadas</h3>
@@ -52,9 +52,21 @@
 <details>
     <summary>Classe de Horarios</summary>
 
-        Muitas funções da Athena precisa de uma data para funcionarem, em questão tecnica fiquei encarregado dessa classe pois era meu primeiro contato com programação e englobava o que vimos durante o semestre.
+Muitas funções da Athena precisa de uma data para funcionarem, em questão tecnica fiquei encarregado dessa classe pois era meu primeiro contato com programação e englobava o que vimos durante o semestre.
+
+<img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/1Semestre/imagens/Screenshot_1.png">
+
+</details>
+
+<br>
+
+<details>
+    <summary>Backlog</summary>
+
+Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master e o PO eram o mesmo papel acabei também fazendo o backlog
 
 <img src="">
+
 </details>
 
 <br>
@@ -62,4 +74,9 @@
 
 <h3>Aprendizados Efetivos</h3>
 
-* ?
+* Syntaxe Python
+* if
+* for
+* while
+* Arrey
+* Lista
