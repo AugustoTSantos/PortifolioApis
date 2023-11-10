@@ -76,7 +76,7 @@
 <details>
     <summary>Mapeamento e Manutenção bd</summary>
 
-Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte da criação e da futura manutenção do nosso banco de dados
+Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte da criação e da futura manutenção do nosso banco de dados.
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/der_photoshop2.png" width="100%" height="100%">
@@ -87,34 +87,44 @@ Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte
 <details>
     <summary>Criação de Views</summary>
 
-Nosso backend precisava puxar informações de diversas tabelas simultaneamente, fiquei responsavel por algumas views feitas para essas funções
+Nosso backend precisava puxar informações de diversas tabelas simultaneamente, fiquei responsavel por algumas views feitas para essas funções.
+
+<p align="center">
+      <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/views.png" width="100%" height="100%">
+</p>
 
 </details>
-
-</br>
 
 <details>
     <summary>Security</summary>
 
-Uma tecnologia introduzida nessa semestre foi como implementar security em uma aplicação spring-boot maven, fiz parte da criação das funções relacionadas
+Uma tecnologia introduzida nessa semestre foi como implementar security em uma aplicação spring-boot maven, fiz parte da criação das funções relacionadas.
+
+<p align="center">
+      <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/security.png" width="100%" height="100%">
+</p>
 
 </details>
-
-</br>
 
 <details>
     <summary>Geração de Relatórios</summary>
 
 Uma coisa interessante para o cliente era poder armazenar seus relatórios em formato de PDF, fiquei encarregado de exportar os graficos da aplicação para esse PDF.
 
-</details>
+<p align="center">
+      <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/pdf.png" width="100%" height="100%">
+</p>
 
-</br>
+</details>
 
 <details>
     <summary>Dicionário de Dados</summary>
 
 Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicionário de dados e fiquei responsavel pelo nosso
+
+<p align="center">
+      <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/dicionario.png" width="100%" height="100%">
+</p>
 
 </details>
 
