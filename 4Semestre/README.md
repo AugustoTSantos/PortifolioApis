@@ -84,6 +84,13 @@ Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte
 
 </details>
 
+<details>
+    <summary>Criação de Views</summary>
+
+Nosso backend precisava puxar informações de diversas tabelas simultaneamente, fiquei responsavel por algumas views feitas para essas funções
+
+</details>
+
 </br>
 
 <details>
@@ -93,9 +100,27 @@ Uma tecnologia introduzida nessa semestre foi como implementar security em uma a
 
 </details>
 
+</br>
+
+<details>
+    <summary>Geração de Relatórios</summary>
+
+Uma coisa interessante para o cliente era poder armazenar seus relatórios em formato de PDF, fiquei encarregado de exportar os graficos da aplicação para esse PDF.
+
+</details>
+
+</br>
+
+<details>
+    <summary>Dicionário de Dados</summary>
+
+Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicionário de dados e fiquei responsavel pelo nosso
+
+</details>
+
 
 <h3>Aprendizados Efetivos</h3>
 
 * Oracle SQL
 * Security
-
+* Dicionário de Dados
