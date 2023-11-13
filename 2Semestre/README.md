@@ -20,6 +20,7 @@ Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando 
     <br>
 
 - [Java](https://www.java.com/pt-BR/)
+- [Maven](https://maven.apache.org/)
 
 </details>
 
@@ -57,10 +58,10 @@ Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando 
 <details>
     <summary>Estruturação e Criação do Banco de Daods</summary>
 
-    Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei responsavel pela criação do nosso
+Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei responsavel pela criação do nosso
 
 <p align="center">
-    <img src="">
+    <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/2Semestre/imagens/bd.png">
 </p>
 
 </details>
@@ -68,10 +69,10 @@ Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando 
 <details>
     <summary>Front com Scene Builde </summary>
 
-    Um dos requisitos para esse semestre era uma interface para a aplicação eu comecei a fazer usando scene builder.
+Um dos requisitos para esse semestre era uma interface para a aplicação eu comecei a fazer usando scene builder.
 
 <p align="center">
-    <img src="">
+    <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/2Semestre/imagens/bd.png">
 </p>
 
 </details>
@@ -79,10 +80,10 @@ Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando 
 <details>
     <summary>Back java com Maven</summary>
 
-    Outra coisa introduzida nesse semestre foi java e o inicio de POO, escrevi e estruturei o código.
+Outra coisa introduzida nesse semestre foi java e o inicio de POO, escrevi e estruturei o código.
 
 <p align="center">
-    <img src="">
+    <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/2Semestre/imagens/back.png">
 </p>
 
 </details>
@@ -95,7 +96,7 @@ Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando 
 <details>
     <summary>Finalização Front-end</summary>
 
-    No meu segundo grupo outra ferramenta estava sendo usada para o front-end como ela era parecida com scene builder me adaptei facil e fiz os toques finais em como ficou a aplicação
+No meu segundo grupo outra ferramenta estava sendo usada para o front-end como ela era parecida com scene builder me adaptei facil e fiz os toques finais em como ficou a aplicação
 
 <a>[Imagens do Front](https://github.com/DatatechOffice/datatech_api/tree/main/Wireframes)</a>
 
