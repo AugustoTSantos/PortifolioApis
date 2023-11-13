@@ -1,6 +1,12 @@
 <h2>Projeto 2º Semestre</h2>
 <h3>Dom Rock</h3>
 
+<br>
+
+Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando tecnologias diferentes, um deles atuei como PO e no outro de dev.
+
+<br>
+
 <h3>Visão do projeto</h3>
 
 <p>
@@ -45,8 +51,55 @@
 <br>
 
 
-<h2>Minhas Contribuições</h2>
+<h2>Minhas Contribuições Grupo 1</h2>
 <br>
+
+<details>
+    <summary>Estruturação e Criação do Banco de Daods</summary>
+
+    Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei responsavel pela criação do nosso
+
+<p align="center">
+    <img src="">
+</p>
+
+</details>
+
+<details>
+    <summary>Front com Scene Builde </summary>
+
+    Um dos requisitos para esse semestre era uma interface para a aplicação eu comecei a fazer usando scene builder.
+
+<p align="center">
+    <img src="">
+</p>
+
+</details>
+
+<details>
+    <summary>Back java com Maven</summary>
+
+    Outra coisa introduzida nesse semestre foi java e o inicio de POO, escrevi e estruturei o código.
+
+<p align="center">
+    <img src="">
+</p>
+
+</details>
+
+<br>
+
+<h2>Minhas Contribuições Grupo 2</h2>
+<br>
+
+<details>
+    <summary>Finalização Front-end</summary>
+
+    No meu segundo grupo outra ferramenta estava sendo usada para o front-end como ela era parecida com scene builder me adaptei facil e fiz os toques finais em como ficou a aplicação
+
+<a>[Imagens do Front](https://github.com/DatatechOffice/datatech_api/tree/main/Wireframes)</a>
+
+</details>
 
 <br>
 
