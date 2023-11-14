@@ -6,7 +6,7 @@ Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de P
 
 <h2>Sobre Mim</h2>
 
-Olá! meu nome é Augusto Torres Santos e estou cursando Banco de Dados pela FATEC SJC, também tenho uma formação tecnica em administração pelo IFSP de Jacareí e já atuei na parte administrativa de alguns setores na General Motors.
+Olá! meu nome é Augusto Torres Santos e estou cursando Banco de Dados pela FATEC SJC, também tenho uma formação técnica em administração pelo IFSP de Jacareí e já atuei na parte administrativa de alguns setores na General Motors.
 
 <br>
 
