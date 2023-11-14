@@ -1,12 +1,6 @@
 <h2>Projeto 2º Semestre</h2>
 <h3>Dom Rock</h3>
 
-<br>
-
-Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando tecnologias diferentes, um deles atuei como PO e no outro de dev.
-
-<br>
-
 <h3>Visão do projeto</h3>
 
 <p>
