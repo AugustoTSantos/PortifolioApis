@@ -85,7 +85,7 @@ Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master 
 
 <h2>Sumario</h2>
 
-* [Pagina Principal](https://github.com/AugustoTSantos/PortifolioApis/edit/main/README.md)
+* [Pagina Principal](https://github.com/AugustoTSantos/PortifolioApis/blob/main/README.md)
 * [Projeto 2º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/2Semestre)
 * [Projeto 3º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/3Semestre)
 * [Projeto 4º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/4Semestre)
