@@ -80,3 +80,14 @@ Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master 
 * while
 * Arrey
 * Lista
+
+<br>
+
+<h2>Sumario</h2>
+
+* [Pagina Principal](https://github.com/AugustoTSantos/PortifolioApis/edit/main/README.md)
+* [Projeto 2º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/2Semestre)
+* [Projeto 3º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/3Semestre)
+* [Projeto 4º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/4Semestre)
+* [Projeto 5º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/5Semestre)
+* [Projeto 6º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/6Semestre)
