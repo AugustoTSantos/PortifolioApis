@@ -1,7 +1,7 @@
 <h2>Projeto 1º Semestre</h2>
 <h4>cliente: FATEC SJC<h4>
 
-<h2>Assistende de Estudos Athena</h2>
+<h2>Assistente de Estudos Athena</h2>
 <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/1Semestre/imagens/athena.jpg"/>
 
 <br>
