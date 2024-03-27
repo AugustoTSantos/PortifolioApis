@@ -1,16 +1,14 @@
 <h2>Projeto 2º Semestre</h2>
-<h3>Embraer</h3>
+<h4>Cliente: Embraer</h4>
 
-<div id="top"></div>
+<h2>Gestão de Aeronaves</h2>
 <p align="center">
       <img src="https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png" width="100%" height="100%">
 <p align="center">
 
 <h3>Visão do projeto</h3>
 
-<p>
-    Atualmente, muitos pilotos trabalham como freelancers e não operam apenas uma aeronave/frota, o que torna difícil reconhecer facilmente e de maneira simples determinados equipamentos e versões de software instalados na aeronave. Além disso, os pilotos nem sempre têm acesso rápido a todos os manuais e documentos da aeronave, o que prejudica seu conhecimento sobre ela e suas capacidades.
-</p>
+<p>Atualmente, muitos pilotos trabalham como freelancers e não operam apenas uma aeronave/frota, o que torna difícil reconhecer facilmente e de maneira simples determinados equipamentos e versões de software instalados na aeronave. Além disso, os pilotos nem sempre têm acesso rápido a todos os manuais e documentos da aeronave, o que prejudica seu conhecimento sobre ela e suas capacidades.</p>
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/gifSprint4.gif" width="100%" height="100%">
