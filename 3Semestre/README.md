@@ -1,16 +1,18 @@
 <h2>Projeto 3º Semestre</h2>
-<h3>Iacit</h3>
+<h4>Cliente: Iacit</h4>
+
+<h2>Dashboard Meteorológico</h2>
+
+<br>
 
 <h3>Visão do projeto</h3>
-<p>
-    Criar um website com as informações do Instituto Nacional de Meteorologia - INMET, de 2020 até o último mês dos dias atuais, onde funcionários da Iacit poderão filtrar as informações meteorológicas por data, região, estado, estação e variavel de uma forma rápida e intuitiva, e com os filtros gerar e salvar relatórios compostos por gráficos de linhas e planilhas. Além disso alguns funcionários da Iacit terão a função de administrador da plataforma sendo capazes de permitir o acesso de outras pessoas a plataforma alterar usuários normais para administradores e gerenciar relatórios.
-</p>
+<p>Criamos um website com as informações do Instituto Nacional de Meteorologia - INMET, de 2020 até o meio de 2023, onde funcionários da Iacit poderão filtrar as informações meteorológicas por data, região, estado, estação e variavel de uma forma rápida e intuitiva, e com os filtros gerar e salvar relatórios compostos por gráficos de linhas e planilhas. Além disso alguns funcionários da Iacit terão a função de administrador da plataforma sendo capazes de permitir o acesso de outras pessoas a plataforma alterar usuários normais para administradores e gerenciar relatórios.</p>
+
+<br>
 
 <h3>Tecnologias Utilizadas</h3>
-
 <details>
 <summary>Front</summary>
-<br>
 
 - [Bootstrap](https://getbootstrap.com/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -20,7 +22,6 @@
 
 <details>
 <summary>Back</summary>
-<br>
 
 - [Java](https://www.java.com/pt-BR/)
 - [Maven](https://maven.apache.org/)
@@ -31,7 +32,6 @@
 
 <details>
 <summary>Banco</summary>
-<br>
 
 - [PostgreSQL](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [brModelo](https://sourceforge.net/projects/brmodelo/)
@@ -39,7 +39,6 @@
 
 <details>
 <summary>Outras</summary>
-<br>
 
 - [GitHub](https://github.com/)
 - [Git](https://github.com/)
@@ -48,10 +47,8 @@
 <br>
 
 <h2>Minhas Contribuições</h2>
-<br>
-
 <details>
-    <summary>Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta</summary>
+<summary>Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta</summary>
     <br>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
