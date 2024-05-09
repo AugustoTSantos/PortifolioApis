@@ -10,7 +10,7 @@ Olá! meu nome é Augusto Torres Santos e estou cursando Banco de Dados pela FAT
 
 <br>
 
-<h2>Sumario</h2>
+<h2>Sumário</h2>
 
 * [Projeto 1º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/1Semestre)
 * [Projeto 2º Semestre](https://github.com/AugustoTSantos/PortifolioApis/tree/main/2Semestre)
