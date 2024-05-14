@@ -68,19 +68,72 @@
 
 <details>
     <summary>Estrutura Back-End</summary>
-
+Nosso back-end foi feito em java spring boot e fiqeu responsavel pela estrutura e desenvolvimento
 
 </details>
 
 <details>
     <summary>Deploy Back-End</summary>
+Nesse semestre aprendememos e implementamos técnicas de devops, uma das minhas implementações foi o deploy abaixo feito com git actions, onde toda vez que pull era feito para branch main ele garantia que não havia erros e buildava a nova versão em um servidor web.
 
+```
+name: Deploy
+on:
+  pull_request:
+    branches:
+      - main
+    types: [closed]
+jobs:
+  build:
+    name: Build
+    if: ${{ github.event.pull_request.merged }}
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: SSH and Deploy
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: ${{ secrets.SSH_USER }}
+        key: ${{ secrets.SSH_KEY }}
+        script: |
+          cd /home/opc
+          sh start_app.sh 
+          cd /home/opc/api5-backend/cloudKitchen
+          git checkout main
+          git pull origin main
+          mvn clean package
+          cd target
+          nohup java -jar cloudKitchen-0.0.1-SNAPSHOT.jar > application.log 2>&1 &
+```
 
 </details>
 
 <details>
     <summary>Conexão Back com Banco</summary>
+Nosso oracle estava hospedado na oracle cloud, então alguns passos precisam ser tomados para sua utilização na aplicação.
 
+1 - baixar wallet
+
+2 - escrever conexão
+```
+spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
+spring.datasource.url=jdbc:oracle:thin:@dcn3qawhewq5s68p_high?TNS_ADMIN=./wallet
+spring.datasource.username=ADMIN
+spring.datasource.password=Hextechapi5bd
+spring.jpa.database-platform=org.hibernate.dialect.Oracle12cDialect
+
+##Logging properties for UCP
+#logging.level.root=trace
+#logging.file.name=logs.log
+#logging.level.oracle.ucp=trace
+server.port = 8080
+
+##Hibernate ddl auto (create, create-drop, validate, update)
+spring.jpa.hibernate.ddl-auto = validate
+```
 
 </details>
 
