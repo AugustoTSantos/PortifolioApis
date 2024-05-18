@@ -64,11 +64,19 @@
     <summary>Mapeamento bd</summary>
 Contribui com a estrutura do nosso banco, com a padronização de nomes e sugestões para organização das tabelas.
 
+<p align="center">
+      <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/5Semestre/imagens/logico_4sp.png" width="100%" height="100%">
+</p>
+
 </details>
 
 <details>
     <summary>Estrutura Back-End</summary>
 Nosso back-end foi feito em java spring boot e fiqeu responsavel pela estrutura e desenvolvimento.
+
+<p align="center">
+      <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/5Semestre/imagens/estrutura.png" width="100%" height="100%">
+</p>
 
 </details>
 
@@ -137,7 +145,9 @@ spring.jpa.hibernate.ddl-auto = validate
 
 </details>
 
-<h3>Aprendizados Efetivos</h3>
+<br>
+
+<h2>Aprendizados Efetivos</h2>
 
 * Conexão Oracle Cloud + Spring boot
 * Deploy
