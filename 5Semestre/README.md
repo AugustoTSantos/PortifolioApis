@@ -62,13 +62,13 @@
 
 <details>
     <summary>Mapeamento bd</summary>
-
+Contribui com a estrutura do nosso banco, com a padronização de nomes e sugestões para organização das tabelas.
 
 </details>
 
 <details>
     <summary>Estrutura Back-End</summary>
-Nosso back-end foi feito em java spring boot e fiqeu responsavel pela estrutura e desenvolvimento
+Nosso back-end foi feito em java spring boot e fiqeu responsavel pela estrutura e desenvolvimento.
 
 </details>
 
