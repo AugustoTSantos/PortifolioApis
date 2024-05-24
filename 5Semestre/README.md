@@ -7,6 +7,13 @@
 
 <p>Criamos uma plataforma online que permite aos proprietários de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo é construir um sistema abrangente que ofereça recursos como painéis, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</p>
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif" width="">
+</p>
+
+<br>
 
 <h3>Tecnologias Utilizadas</h3>
 
