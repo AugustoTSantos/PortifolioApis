@@ -21,7 +21,7 @@
 <summary>Front-End</summary>
 
 * [vue](https://vuejs.org/)
-* [HTML](https://www.w3schools.com/css/)
+* [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
 </details>
@@ -45,20 +45,16 @@
 <summary>Meetings and Communication</summary>
 
 - [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
-
 - [Whatsapp](https://www.whatsapp.com/)
-
 - [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
 </details>
 
 
 <details>
     <summary>Outras</summary>
-    <br>
 
 - [GitHub](https://github.com/)
 - [Git](https://github.com/)
-- [Discord](https://discord.com/)
 </details>
 
 <br>
