@@ -109,10 +109,43 @@
 
 <h3>Aprendizados Efetivos</h3>
 
-* Spring Boot
-* Maven dev tools
-* Mapeamento de banco de dados
-* Atuação como PO
+<h3 align="center"> Hard Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Aprendizado</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+    <tr>
+      <td>Mapeamento de banco de dados</td>
+      <td>sei fazer</td>
+    </tr>
+</table>
+
+<h3 align="center"> Soft Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Como PO precisei formular perguntas para extrair informações do cliente e passar para meu time as necessidades do cliente</td>
+    </tr>
+    <tr>
+      <td>Resolução de Problemas</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+    </tr>
+</table>
 
 <br>
 
