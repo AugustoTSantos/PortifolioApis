@@ -105,9 +105,47 @@ No meu segundo grupo outra ferramenta estava sendo usada para o front-end como e
 
 <h3>Aprendizados Efetivos</h3>
 
-* Syntaxe Java
-* Scene Builder
-* Modelagem de Banco
+<h3 align="center"> Hard Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Aprendizado</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Syntaxe Java</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+    <tr>
+      <td>Scene Builder</td>
+      <td>sei fazer</td>
+    </tr>
+    <tr>
+      <td>Modelagem de Banco</td>
+      <td>sei fazer</td>
+    </tr>
+</table>
+
+<h3 align="center"> Soft Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>Precei me adaptar a uma nova equipe e sua forma de trabalhar no meio de um projeto em andamento</td>
+    </tr>
+    <tr>
+      <td>Resolução de Problemas</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+    </tr>
+</table>
 
 <br>
 
