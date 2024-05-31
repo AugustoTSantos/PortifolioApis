@@ -129,9 +129,47 @@ Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicioná
 
 <h3>Aprendizados Efetivos</h3>
 
-* Oracle SQL
-* Security
-* Dicionário de Dados
+<h3 align="center"> Hard Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Aprendizado</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Oracle SQL</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+    <tr>
+      <td>Dicionário de Dados</td>
+      <td>sei fazer</td>
+    </tr>
+</table>
+
+<h3 align="center"> Soft Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
+    </tr>
+    <tr>
+      <td>Resolução de Problemas</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+    </tr>
+    <tr>
+      <td>Gerir Reunião</td>
+      <td>Como master era responsavel por organizar e gerir as reuniões da equipe</td>
+    </tr>
+</table>
 
 <br>
 
