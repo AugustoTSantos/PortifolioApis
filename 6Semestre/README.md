@@ -60,32 +60,117 @@
 
 <details>
     <summary>Tratamento de Dados</summary>
+    <p>Para treinar um modelo de aprendizagem de maquino é preciso preparar o dado e ajudei a fazer os passos pelo qual nossa base de treino passa</p>
+    
+```
+  # Cria uma nova coluna para classificar entre comentários positivos(2), negativos(0) ou neutros(1) com base na nota:
+dataset['feeling'] = np.where(dataset['overall_rating'] < 3, 0, np.where(dataset['overall_rating'] == 3, 1, 2))
 
-</details>
+# Mostra os primeiros registros do dataset
+print("Primeiros registros do dataset:")
+print(tabulate(dataset.head(10), headers='keys', tablefmt='pipe'))
 
-<details>
-    <summary>Métricas de Avaliação</summary>
+# Criação da instância do lematizador e das stopwords
+lemmatizer = WordNetLemmatizer()
+stop_words = set(stopwords.words('portuguese'))
 
+# Lista para armazenar os textos pré-processados
+preprocessed_texts = []
+
+# Itera sobre cada texto no dataset para pré-processamento
+for text in dataset['review_text']:
+    # Verifica se o texto é uma string
+    if isinstance(text, str):
+        # Converte para minúsculas
+        text = text.lower()
+        # Remove acentos
+        text = ''.join(char for char in unicodedata.normalize('NFKD', text) if unicodedata.category(char) != 'Mn')
+        # Remove números usando expressão regular
+        text = re.sub(r'\d+', '', text)
+        # Remove caracteres especiais (incluindo emojis)
+        text = re.sub(r'[^\w\s]', '', text)
+        # Remove pontuação
+        text = text.translate(str.maketrans('', '', string.punctuation))
+        # Remove espaços extras
+        text = re.sub(r'\s+', ' ', text).strip()
+        # Tokenização
+        tokens = word_tokenize(text)
+        # Lematização e remoção de stopwords
+        tokens = [lemmatizer.lemmatize(word) for word in tokens if word.isalpha() and word.lower() not in stop_words]
+        # Junta os tokens em texto novamente
+        preprocessed_text = ' '.join(tokens)
+        # Adiciona o texto pré-processado à lista
+        preprocessed_texts.append(preprocessed_text)
+    else:
+        preprocessed_texts.append("")
+
+# Substitui os textos originais pelos textos já preparados para análise
+dataset['review_text'] = preprocessed_texts
+```  
 </details>
 
 <details>
     <summary>Modelo XGBoost</summary>
+    <p>O maior foco do projeto é a aprendizagem de maquina em analise de sentimentos, a equipe pesquisou e testou varios modelos e eu fiquei responsavel pelo XGBoost, que acabou sendo usando na versão final</p>
+    
+```
+# Cria uma instância do modelo XGBoost
+xgboost = xgb.XGBClassifier()
 
-</details>
+# Especifica o número de folds para a validação cruzada
+num_folds = 5
 
-<details>
-    <summary>Deploy Back-End</summary>
+#  Cria um objeto StratifiedKFold para garantir que as classes estejam balanceadas em cada divisão
+kfold = StratifiedKFold(n_splits=num_folds, shuffle=True, random_state=42)
 
+# Lista para armazenar as pontuações de acurácia de cada divisão (fold)
+accuracy_scores = []
+
+# Realiza a validação cruzada
+for train_index, test_index in kfold.split(X_ngrams, Y):
+    # Separa os dados em conjuntos de treino e teste para esta divisão
+    X_train, X_test = X_ngrams[train_index], X_ngrams[test_index]
+    Y_train, Y_test = Y[train_index], Y[test_index]
+
+    # Calcula os pesos de amostra com base nas classes
+    class_weights = np.zeros(len(Y_train))
+    class_counts = np.bincount(Y_train)
+    for i in range(len(class_counts)):
+        class_weights[Y_train == i] = len(Y_train) / class_counts[i]
+    
+    # Treina o modelo XGBoost com pesos de amostra
+    xgboost.fit(X_train, Y_train, sample_weight=class_weights)
+```
 </details>
 
 <details>
     <summary>Projeto Mongo</summary>
-
+    <p>Nesse semestre fomos introduzidos a bancos de dados não relacionais, eu fiquei encarregado de criar nosso projeto no Mongo Atlas e a pagina da wiki de como começar a usar a ferramenta</p>
+    
+* [Wiki Mongo projeto](https://github.com/GroupHextech/HEXTECH-API6sem/wiki/Mongo)
+    
 </details>
 
 <details>
     <summary>Conexão Back-Firebase</summary>
+    <p>Fui responsavel pela primeira versão da conexão com firebase e a aplicação, onde ele buscava as credenciais localmente e conectava com o cliente</p>
+    
+```
+    cred = credentials.Certificate(
+        os.path.join(
+            os.path.dirname(__file__),
+            r"D:\\Codigos\\Fatec\\api6\\firebase\\hex-imagem-firebase-adminsdk-us6mv-b020efced9.json"
+        )
+    )
 
+    firebase_app = firebase_admin.initialize_app(cred)
+
+    def init_firestore():
+        fclient = firestore.client(app=firebase_app)
+        return fclient
+
+    fbd = firestore.client()
+```
 </details>
 
 <br>
