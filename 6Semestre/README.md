@@ -174,13 +174,54 @@ for train_index, test_index in kfold.split(X_ngrams, Y):
 </details>
 
 <br>
-
 <h2>Aprendizados Efetivos</h2>
 
-* Flask
-* Analise de Sentimentos
-* MongoDB
-* NOSql
+<h3 align="center"> Hard Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Aprendizado</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Estrutura Flask</td>
+      <td>sei fazer</td>
+    </tr>
+    <tr>
+      <td>Analise de Sentimentos</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+     <tr>
+      <td>NOSql</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+</table>
+
+<h3 align="center"> Soft Skills </h3>
+
+<table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
+    </tr>
+    <tr>
+      <td>Resolução de Problemas</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+    </tr>
+</table>
+
 
 <br>
 
