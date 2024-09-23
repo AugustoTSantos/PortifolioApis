@@ -16,7 +16,7 @@ Esse Projeto foi criado devido a um trabalho escolar onde nós, alunos do curso 
 
 ## Processo
 <p>A Dom Rock recebe muitos documentos em formatos e padrões diferentes e esses documentos precisam ser uniformizados e armazenados em três etapas: bronze, prata e ouro.</p>
-<p>O que define em qual etapa o documento está é o atual do documento e processos que já foram feitos com ele.</p>
+<p>O que define em qual etapa o documento está é o estado atual do documento e processos que já foram feitos com ele.</p>
 <p>Com esse aplicativo os documentos de diversas fontes e formatos recebidos são armazenados no mesmo lugar e convertidos para o mesmo formato, facilitando, agilizando e separando por etapas. Trabalho que antes era manual.</p>
 
 <br>
