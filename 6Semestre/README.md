@@ -7,6 +7,9 @@
 
 <p>Em um mercado cada vez mais competitivo, entender as nuances dos desejos dos clientes torna-se crucial para o sucesso. Avaliações online, nesse contexto, representam um verdadeiro tesouro de insights, revelando a satisfação dos consumidores, suas expectativas e, às vezes, suas frustrações. Diante desse cenário, o desafio deste semestre é o desenvolvimento de um aplicativo inovador que, utilizando inteligência artificial, realize uma análise aprofundada desses comentários, classificando-os como positivos, neutros ou negativos. Ao integrar esses dados no banco de dados, será possível extrair insights valiosos que impulsionarão a tomada de decisões estratégicas e melhorarão a experiência do cliente.</p>
 
+<p align="center">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Sprint4.gif" width="600">
+</p>
 
 <h3>Tecnologias Utilizadas</h3>
 
