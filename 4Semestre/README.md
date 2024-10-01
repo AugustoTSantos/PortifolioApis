@@ -74,7 +74,7 @@
 <details>
     <summary>Mapeamento e Manutenção bd</summary>
 
-Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte da criação e da futura manutenção do nosso banco de dados.
+Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte da criação e da futura manutenção do banco de dados.
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/der_photoshop2.png" width="100%" height="100%">
@@ -85,7 +85,7 @@ Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte
 <details>
     <summary>Criação de Views</summary>
 
-Nosso backend precisava puxar informações de diversas tabelas simultaneamente, fiquei responsavel por algumas views feitas para essas funções.
+O backend precisava buscar informações de diversas tabelas simultaneamente, fiquei responsável por algumas views feitas para essas funções.
 
 <p align="center">
       <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/views.png" width="100%" height="100%">
@@ -107,7 +107,7 @@ Uma tecnologia introduzida nessa semestre foi como implementar security em uma a
 <details>
     <summary>Geração de Relatórios</summary>
 
-Uma coisa interessante para o cliente era poder armazenar seus relatórios em formato de PDF, fiquei encarregado de exportar os graficos da aplicação para esse PDF.
+Uma funcionalidade interessante para o cliente era poder armazenar seus relatórios em formato de PDF, fiquei encarregado de exportar os graficos da aplicação para esse PDF.
 
 <p align="center">
       <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/pdf.png" width="100%" height="100%">
@@ -118,7 +118,7 @@ Uma coisa interessante para o cliente era poder armazenar seus relatórios em fo
 <details>
     <summary>Dicionário de Dados</summary>
 
-Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicionário de dados e fiquei responsavel pelo nosso
+Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicionário de dados, o qual fiquei responsável
 
 <p align="center">
       <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/dicionario.png" width="100%" height="100%">
@@ -135,6 +135,14 @@ Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicioná
     <tr>
       <th width="300px">Aprendizado</th>
       <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Security</td>
+      <td>sei fazer com consulta</td>
+    </tr>
+    <tr>
+      <td>Criação de Views</td>
+      <td>sei fazer</td>
     </tr>
     <tr>
       <td>Oracle SQL</td>
@@ -155,19 +163,19 @@ Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicioná
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas.</td>
     </tr>
     <tr>
       <td>Resolução de Problemas</td>
-      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
     <tr>
       <td>Gerir Reunião</td>
-      <td>Como master era responsavel por organizar e gerir as reuniões da equipe</td>
+      <td>Como master era responsável por organizar e gerir as reuniões da equipe.</td>
     </tr>
 </table>
 
