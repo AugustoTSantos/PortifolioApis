@@ -54,7 +54,7 @@
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
     </p>
     <p>
-        Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades e entidades para identificar seu posicionamento.
+        Tendo em vista as informações providas pelo cliente, por perguntas e arquivos CSS, foi feita uma entidade para cada tipo de informação meteorológica coletada pelas estões, que estão conectadas a todas essas entidades para identificar seu posicionamento.
     </p>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Logico.png">
