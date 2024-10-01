@@ -85,7 +85,7 @@ O back-end foi feito em java spring boot, fui responsável pela estruturação e
 
 <details>
     <summary>Deploy Back-End</summary>
-Nesse semestre aprendememos e implementamos técnicas de devops, uma das minhas implementações foi o deploy abaixo feito com git actions, onde toda vez que pull era feito para branch main ele garantia que não havia erros e compilava a nova versão em um servidor web.
+Nesse semestre aprendememos e implementamos técnicas de devops, uma das minhas implementações foi o deploy abaixo, feito com git actions, onde toda vez que pull era feito para branch main ele garantia que não havia erros e compilava a nova versão em um servidor web.
 
 ```
 name: Deploy
@@ -124,7 +124,7 @@ jobs:
 
 <details>
     <summary>Conexão Back com Banco</summary>
-Nosso oracle estava hospedado na oracle cloud, então alguns passos precisam ser tomados para sua utilização na aplicação.
+O oracle estava hospedado na oracle cloud, então alguns passos precisam ser tomados para sua utilização na aplicação.
 
 1 - baixar wallet
 
