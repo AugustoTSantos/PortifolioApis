@@ -63,7 +63,7 @@
 
 <details>
     <summary>Tratamento de Dados</summary>
-    <p>Para treinar um modelo de aprendizagem de maquino é preciso preparar o dado e ajudei a fazer os passos pelo qual nossa base de treino passa</p>
+    <p>Para treinar um modelo de aprendizagem de maquina é preciso preparar o dado, ajudei a fazer os passos pelo qual a base de treino passa.</p>
     
 ```
   # Cria uma nova coluna para classificar entre comentários positivos(2), negativos(0) ou neutros(1) com base na nota:
@@ -114,7 +114,7 @@ dataset['review_text'] = preprocessed_texts
 
 <details>
     <summary>Modelo XGBoost</summary>
-    <p>O maior foco do projeto é a aprendizagem de maquina em analise de sentimentos, a equipe pesquisou e testou varios modelos e eu fiquei responsavel pelo XGBoost, que acabou sendo usando na versão final</p>
+    <p>O maior foco do projeto é a aprendizagem de maquina em analise de sentimentos, a equipe pesquisou e testou varios modelos e eu fiquei responsável pelo XGBoost, que acabou sendo usando na versão final.</p>
     
 ```
 # Cria uma instância do modelo XGBoost
@@ -148,7 +148,7 @@ for train_index, test_index in kfold.split(X_ngrams, Y):
 
 <details>
     <summary>Projeto Mongo</summary>
-    <p>Nesse semestre fomos introduzidos a bancos de dados não relacionais, eu fiquei encarregado de criar nosso projeto no Mongo Atlas e a pagina da wiki de como começar a usar a ferramenta</p>
+    <p>Nesse semestre fomos introduzidos a bancos de dados não relacionais, eu fiquei encarregado de criar o projeto no Mongo Atlas e a pagina da wiki de como começar a usar a ferramenta.</p>
     
 * [Wiki Mongo projeto](https://github.com/GroupHextech/HEXTECH-API6sem/wiki/Mongo)
     
@@ -156,7 +156,7 @@ for train_index, test_index in kfold.split(X_ngrams, Y):
 
 <details>
     <summary>Conexão Back-Firebase</summary>
-    <p>Fui responsavel pela primeira versão da conexão com firebase e a aplicação, onde ele buscava as credenciais localmente e conectava com o cliente</p>
+    <p>Fui responsável pela primeira versão da conexão com firebase e a aplicação, onde ele buscava as credenciais localmente e conectava com o cliente.</p>
     
 ```
     cred = credentials.Certificate(
@@ -213,15 +213,15 @@ for train_index, test_index in kfold.split(X_ngrams, Y):
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas.</td>
     </tr>
     <tr>
       <td>Resolução de Problemas</td>
-      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
 </table>
 
