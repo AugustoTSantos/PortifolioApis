@@ -94,7 +94,7 @@ Outras tecnologias introduzidas nesse semestre foram java e POO, no projeto eu e
 <details>
 <summary>Finalização Front-end</summary>
 
-No meu segundo grupo o JavaFX estava sendo usado para o front-end, como ele era parecido com scene builder me adaptei facil e fiz os toques finais em como ficou a aplicação.
+No meu segundo grupo o JavaFX estava sendo usado para o front-end, como ele era parecido com scene builder me adaptei fácil e fiz os toques finais em como ficou a aplicação.
 
 <a>[Esse link](https://github.com/DatatechOffice/datatech_api/tree/main/Wireframes)</a> leva para uma pasta de imagens do projeto onde estão a versão final de todas as telas.
 
