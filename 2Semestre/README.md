@@ -11,7 +11,7 @@
 
 <h3>Visão do projeto</h3>
 <p>
-Esse Projeto foi criado devido a um trabalho escolar onde nós, alunos do curso Banco de Dados 2º semestre da FATEC SJC, fomos desafiados a criar um aplicativo em java com o intuito de facilitar a entrada de dados no sistema da empresa DOM ROCK
+Esse Projeto foi criado devido a um trabalho escolar onde nós, alunos do curso Banco de Dados 2º semestre da FATEC SJC, fomos desafiados a criar um aplicativo em java com o intuito de facilitar a entrada de dados no sistema da empresa DOM ROCK.
 </p>
 
 ## Processo
@@ -69,7 +69,7 @@ Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei re
 </details>
 
 <details>
-<summary>Front com Scene Builde </summary>
+<summary>Front com Scene Builde</summary>
 
 Um dos requisitos para esse semestre era uma interface para a aplicação eu comecei a fazer usando scene builder, <a>[Esse Link](https://github.com/Michaelfss/Projeto-Integrador-2022-1-CleanCode/tree/main/Projeto-Integrador-2022-1-CleanCode/API_DOM_ROCK/target/classes/com/example/view) contem os arquivos .fxml, que são usados pelo scene builder, das interfaces quais fui responsavel.
 
@@ -135,15 +135,15 @@ No meu segundo grupo o JavaFX estava sendo usado para o front-end, como ele era 
     </tr>
     <tr>
       <td>Adaptabilidade</td>
-      <td>Precei me adaptar a uma nova equipe e sua forma de trabalhar no meio de um projeto em andamento</td>
+      <td>Precei me adaptar a uma nova equipe e sua forma de trabalhar no meio de um projeto em andamento.</td>
     </tr>
     <tr>
       <td>Resolução de Problemas</td>
-      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
 </table>
 
