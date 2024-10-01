@@ -78,7 +78,7 @@ Um dos requisitos para esse semestre era uma interface para a aplicação eu com
 <details>
 <summary>Back java com Maven</summary>
 
-Outra coisa introduzida nesse semestre foi java e o inicio de POO, escrevi e estruturei o código.
+Outras tecnologias introduzidas nesse semestre foram java e POO, no projeto eu escrevi e estruturei o código.
 
 <p align="center">
     <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/2Semestre/imagens/back.png">
@@ -94,7 +94,7 @@ Outra coisa introduzida nesse semestre foi java e o inicio de POO, escrevi e est
 <details>
 <summary>Finalização Front-end</summary>
 
-No meu segundo grupo outra ferramenta estava sendo usada para o front-end como ela era parecida com scene builder me adaptei facil e fiz os toques finais em como ficou a aplicação.
+No meu segundo grupo o JavaFX estava sendo usado para o front-end, como ele era parecido com scene builder me adaptei facil e fiz os toques finais em como ficou a aplicação.
 
 <a>[Esse link](https://github.com/DatatechOffice/datatech_api/tree/main/Wireframes)</a> leva para uma pasta de imagens do projeto onde estão a versão final de todas as telas.
 
