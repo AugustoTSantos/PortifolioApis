@@ -60,7 +60,7 @@ Esse Projeto foi criado devido a um trabalho escolar onde nós, alunos do curso 
 <details>
 <summary>Estruturação e Criação do Banco de Daods</summary>
 
-Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei responsável por todas as partes do nosso.
+Nesse semestre nos foi introduzido como modelar um banco de dados, fiquei responsável pela modelagem.
 
 <p align="center">
 <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/2Semestre/imagens/bd.png">
@@ -71,7 +71,7 @@ Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei re
 <details>
 <summary>Front com Scene Builde</summary>
 
-Um dos requisitos para esse semestre era uma interface para a aplicação eu comecei a fazer usando scene builder, <a>[Esse Link](https://github.com/Michaelfss/Projeto-Integrador-2022-1-CleanCode/tree/main/Projeto-Integrador-2022-1-CleanCode/API_DOM_ROCK/target/classes/com/example/view) contem os arquivos .fxml, que são usados pelo scene builder, das interfaces quais fui responsavel.
+Um dos requisitos para esse semestre era uma interface para a aplicação eu comecei a fazer usando scene builder, <a>[Esse Link](https://github.com/Michaelfss/Projeto-Integrador-2022-1-CleanCode/tree/main/Projeto-Integrador-2022-1-CleanCode/API_DOM_ROCK/target/classes/com/example/view) contem os arquivos .fxml, que são usados pelo scene builder, das interfaces quais fui responsável.
 
 </details>
 
