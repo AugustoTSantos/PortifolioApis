@@ -1,11 +1,11 @@
 <h2>Projeto 2º Semestre</h2>
-<h4>cliente: Don Rock<h4>
+<h4>cliente: Dom Rock<h4>
 
 <h2>Otimização de Entrada e Gestão dos dados</h2>
 
 <br>
 
-<p>Nesse semestre eu passei duas sprints em dois grupos no qual estavam utilizando tecnologias diferentes, um deles atuei como PO e no outro de dev.</p>
+<p>Nesse semestre eu passei duas sprints em um grupo como PO e outras duas sprints em outro grupo como dev.</p>
 
 <br>
 
@@ -60,7 +60,7 @@ Esse Projeto foi criado devido a um trabalho escolar onde nós, alunos do curso 
 <details>
 <summary>Estruturação e Criação do Banco de Daods</summary>
 
-Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei responsavel por todas as partes do nosso.
+Nesse semestre nos foi introduzido como modelar um banco de dados e eu fiquei responsável por todas as partes do nosso.
 
 <p align="center">
 <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/2Semestre/imagens/bd.png">
