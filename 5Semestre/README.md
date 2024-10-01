@@ -75,7 +75,7 @@ Contribui com a estrutura do nosso banco, com a padronização de nomes e sugest
 
 <details>
     <summary>Estrutura Back-End</summary>
-Nosso back-end foi feito em java spring boot e fiqeu responsavel pela estrutura e desenvolvimento.
+O back-end foi feito em java spring boot, fui responsável pela estruturação e desenvolvimento.
 
 <p align="center">
       <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/5Semestre/imagens/estrutura.png" width="100%" height="100%">
@@ -85,7 +85,7 @@ Nosso back-end foi feito em java spring boot e fiqeu responsavel pela estrutura 
 
 <details>
     <summary>Deploy Back-End</summary>
-Nesse semestre aprendememos e implementamos técnicas de devops, uma das minhas implementações foi o deploy abaixo feito com git actions, onde toda vez que pull era feito para branch main ele garantia que não havia erros e buildava a nova versão em um servidor web.
+Nesse semestre aprendememos e implementamos técnicas de devops, uma das minhas implementações foi o deploy abaixo feito com git actions, onde toda vez que pull era feito para branch main ele garantia que não havia erros e compilava a nova versão em um servidor web.
 
 ```
 name: Deploy
@@ -190,19 +190,19 @@ spring.jpa.hibernate.ddl-auto = validate
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas.</td>
     </tr>
     <tr>
       <td>Resolução de Problemas</td>
-      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
     <tr>
       <td>Gerir Reunião</td>
-      <td>Como master era responsavel por organizar e gerir as reuniões da equipe</td>
+      <td>Como master era responsável por organizar e gerir as reuniões da equipe.</td>
     </tr>
 </table>
 
