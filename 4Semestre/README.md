@@ -173,10 +173,6 @@ Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicioná
       <td>Trabalho em Equipe</td>
       <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
-    <tr>
-      <td>Gerir Reunião</td>
-      <td>Como master era responsável por organizar e gerir as reuniões da equipe.</td>
-    </tr>
 </table>
 
 <br>
