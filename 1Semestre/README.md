@@ -242,7 +242,7 @@ Devido a pandemia a feira de solução foi feita pelo youtube, gravei e editei n
     </tr>
     <tr>
       <td>Gerir Reunião</td>
-      <td>Como master era responsavel por organizar e gerir as reuniões da equipe.</td>
+      <td>Como master era responsável por organizar e gerir as reuniões da equipe.</td>
     </tr>
 </table>
 
