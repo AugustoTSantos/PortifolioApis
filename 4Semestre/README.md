@@ -74,7 +74,7 @@
 <details>
     <summary>Mapeamento e Manutenção bd</summary>
 
-Com base no desafio, nossa solução e informações nos dados pelo PO fiz parte da criação e da futura manutenção do banco de dados.
+Com base no desafio, nossa solução e informações passadas pelo PO fiz parte da criação e da futura manutenção do banco de dados.
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/der_photoshop2.png" width="100%" height="100%">
@@ -118,7 +118,7 @@ Uma funcionalidade interessante para o cliente era poder armazenar seus relatór
 <details>
     <summary>Dicionário de Dados</summary>
 
-Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicionário de dados, o qual fiquei responsável
+Outro conceito introduzido e cobrado nesse semestre foi a existencia do dicionário de dados, o qual fiquei responsável.
 
 <p align="center">
       <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/4Semestre/imagens/dicionario.png" width="100%" height="100%">
