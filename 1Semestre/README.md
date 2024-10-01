@@ -7,7 +7,7 @@
 <br>
 
 <h3>Visão do projeto</h3>
-<p>Com o propósito de trazer para os estudantes em geral uma forma mais centralizada e organizada de cuidar da vida acadêmica e se manter atualizado em suas atividades, criamos a Athena - Assistente Pessoal de Estudos. O seu diferencial é reunir diversas ferramentas úteis em um único lugar e interatividade por voz.</p>
+<p>Com o propósito de trazer para estudantes em geral uma forma mais centralizada e organizada de cuidar da vida acadêmica e se manter atualizado em suas atividades, criamos a Athena - Assistente Pessoal de Estudos. O seu diferencial é reunir diversas ferramentas úteis em um único lugar e interatividade por voz.</p>
 
 <br>
 
