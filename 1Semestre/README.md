@@ -212,7 +212,7 @@ Devido a pandemia a feira de solução foi feita pelo youtube, gravei e editei n
       <td>sei fazer</td>
     </tr>
     <tr>
-      <td>Arrey</td>
+      <td>Array</td>
       <td>sei fazer com consulta</td>
     </tr>
     <tr>
