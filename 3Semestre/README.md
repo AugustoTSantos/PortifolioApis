@@ -48,7 +48,7 @@
 
 <h2>Minhas Contribuições</h2>
 <details>
-<summary>Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta</summary>
+<summary>Estruturação do banco de dados, incluindo modelo conceitual com a ideia inicial, lógico para consolidar os tipos, queries para criação e dicionário de dados para consulta.</summary>
     <br>
     <p align="center">
         <img src="https://github.com/MrZeroLeft/Bertoti/blob/main/metodologiaPesquisaCientifica/imagens/Conceitual.png">
@@ -82,7 +82,7 @@
 <br>
 
 <details>
-    <summary>Atuação como PO, responsavel por conversar com o cliente, entender seus problemas, sugerir soluções, orgaizar um plano de ação e passar essas informações para a equipe de uma forma facil de entender, além de organizar o github</summary>
+    <summary>Atuação como PO, responsável por conversar com o cliente, entender seus problemas, sugerir soluções, organizar um plano de ação e passar essas informações para a equipe de uma forma fácil de entender, além de organizar o github.</summary>
     <a href="https://github.com/DatatechOffice/Api_Iacit">
         <p>Github Data Tech</p>
     </a>
@@ -135,15 +135,15 @@
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Como PO precisei formular perguntas para extrair informações do cliente e passar para meu time as necessidades do cliente</td>
+      <td>Como PO precisei formular perguntas para extrair informações do cliente e passar para meu time as necessidades do cliente.</td>
     </tr>
     <tr>
       <td>Resolução de Problemas</td>
-      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
 </table>
 
