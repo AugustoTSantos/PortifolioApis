@@ -169,7 +169,7 @@ for posi, c in enumerate(dias_semana):
 <details>
 <summary>Backlog</summary>
 
-Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master e o PO eram o mesmo papel acabei também fazendo o backlog
+Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master e o PO eram o mesmo papel acabei também fazendo o backlog.
 
 <img src="https://github.com/AugustoTSantos/PortifolioApis/blob/main/1Semestre/imagens/Screenshot_2.png">
 
@@ -180,7 +180,7 @@ Atuei como Scrum Master em parte do projeto, como no primeiro semestre o master 
 <details>
 <summary>Apresentação</summary>
 
-Devido a pandemia a feira de solução foi feita pelo youtube, gravei e editei nossa <a>[Apresentação Final](https://www.youtube.com/watch?v=E_I9MvQs9BE)</a>, espero que gostem
+Devido a pandemia a feira de solução foi feita pelo youtube, gravei e editei nossa <a>[Apresentação Final](https://www.youtube.com/watch?v=E_I9MvQs9BE)</a>, espero que gostem.
 
 </details>
 
@@ -230,19 +230,19 @@ Devido a pandemia a feira de solução foi feita pelo youtube, gravei e editei n
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas e com cliente sobre o produto</td>
+      <td>Precisei me comunicar com a equipe sobre situações e status de tarefas e com cliente sobre o produto.</td>
     </tr>
     <tr>
       <td>Resolução de Problemas</td>
-      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto</td>
+      <td>Precisei entender e buscar formas de resolver problemas encontrados durante o projeto.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto</td>
+      <td>Precisei entender e adaptar a forma de trabalho para colaborar com a equipe no desenvolimento do projeto.</td>
     </tr>
     <tr>
       <td>Gerir Reunião</td>
-      <td>Como master era responsavel por organizar e gerir as reuniões da equipe</td>
+      <td>Como master era responsavel por organizar e gerir as reuniões da equipe.</td>
     </tr>
 </table>
 
